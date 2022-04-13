@@ -1,0 +1,66 @@
+body{
+  text-align: center;
+
+}
+
+h1{
+  color:#ECDBBA;
+}
+#title{
+    background-color: #C84B31;
+    padding:2% 5%;
+    text-align: left;
+}
+.title_text{
+  padding:5%;
+  text-align: left;
+
+}
+
+ .download-button{
+  margin:50px 0;
+}
+
+.navbar-brand{
+  margin-left: 50px;
+  font-family: "Montserrat";
+  font-size: 2rem;
+  color:#F05454;
+
+}
+
+
+.feature-summary{
+  margin-top: 50px;
+  font-size:1.5rem;
+
+}
+.icons{
+  padding-top: 50px;
+  font-size: 2em;
+  color:#F05454;
+}
+
+
+.introduction-image{
+  margin: 50px;
+  height:350px;
+}
+
+#copy-right{
+  background-color:#191919;
+  color:#fff;
+  padding:50px;
+}
+.copy-right-text{
+  font-size:0.7rem;
+}
+
+#contact p{
+  padding-top:50px;
+  font-size: 2rem;
+}
+#contact i{
+  font-size: 3rem;
+  padding: 20px;
+}
